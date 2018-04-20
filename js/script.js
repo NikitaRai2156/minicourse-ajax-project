@@ -13,7 +13,6 @@ function loadData() {
 
     // load streetview
 
-    // YOUR CODE GOES HERE!
     var streetStr = $('#street').val();
     var cityStr = $('#city').val();
     console.log(cityStr);
